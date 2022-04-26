@@ -51,4 +51,24 @@ sayesinde olur.
 
 <img src="https://user-images.githubusercontent.com/56538177/163602178-4f8610ec-4aed-4b12-99c6-1c43f0de9968.png"  width="550" height="500">
     
-    
+## <a name="3"></a> Araştırma Projesi 3
+
+- Font family dosyası nasıl oluşturulup kullanıyoruz?
+- Neden belirttiğiniz şekilde kullanımı tercih ediyoruz?
+
+P.S. [Bu linkten](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml ) faydalanarak font family projenizde deneyebilirsiniz.
+
+Font dosyasını internet sitesinden indiririz.İndirdiğimiz dosyayı zip’ten çıkartıp ve fonts klasörürünün içindeki fontawesome-webfont.ttf isimli font dosyasını Android projemizin Assets klasörüne fonts isminde bir klasör yaratıp ilgili font dosyasını oluşturmuş olduğumuz klasöre kopyalarız.
+
+Android uygulamalarımızı geliştirirken custom fontlar kullanmak isteyebiliriz işte bu fontları font klasörü içine atmamız gerekmektedir.
+
+
+## <a name="4"></a> Araştırma Projesi 4
+
+- Property Animation ile ilgili olarak objectAnimator ile animator arasındaki farkı kısaca açıklayınız
+
+P.S. [Bu linkten](https://developer.android.com/guide/topics/resources/animation-resource#Property) faydalanabilirsiniz.    
+
+ObjectAnimator belirli bir süre boyunca bir nesnenin belirli bir özelliğini canlandırır. 
+
+Animator,başlatılabilen, sonlandırılabilen ve kendilerine AnimatorListener eklenmiş animasyonlar için temel destek sağlayan üst sınıftır.
