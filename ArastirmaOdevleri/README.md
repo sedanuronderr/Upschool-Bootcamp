@@ -53,7 +53,7 @@ sayesinde olur.
     
 ## <a name="3"></a> Araştırma Projesi 3
 
-- Font family dosyası nasıl oluşturulup kullanıyoruz?
+- Font family dosyası nasıl oluşturulup kullanıyoruz? 
 - Neden belirttiğiniz şekilde kullanımı tercih ediyoruz?
 
 P.S. [Bu linkten](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml ) faydalanarak font family projenizde deneyebilirsiniz.
